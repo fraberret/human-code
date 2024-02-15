@@ -34,3 +34,6 @@ Domani è il compleanno di silvia, dobbiamo comprarle un regalo, siamo alla scri
 
 
 - Step-5 comprare il regalo
+    - Aggiungere il prodotto al carrello
+    - Inserire recapito e metodo di pagamento
+    - Confermare
